@@ -13,6 +13,7 @@
   
 Цель проекта:
   Подготовить данные для дальнейшей работы мат.модели
+  
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
 
@@ -73,6 +74,7 @@
 4. Был найден линейно зависимый столбец studytime_granular - удалён
 5. Была выявлена прямая зависимость нулевых значений в score и нулевой посещаемости, датасет был модифицирован, нулев
 6. Значимых критериев для дальнейшего построения модели 14, это: age, absences, address, schoolsup, m_edu, f_edu, m_job, f_job, studytime, failures, goout, paid, higher, romantic.
+
 Результат работы включает полностью подготовленный числовой датасет
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
