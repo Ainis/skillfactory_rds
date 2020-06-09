@@ -75,9 +75,9 @@
     3.3 под подозрением на наличие выбросов был столбец absences - но его распределение является логнормальным, все в порядке 
 4. Был найден линейно зависимый столбец studytime_granular - удалён
 5. Была выявлена прямая зависимость нулевых значений в score и нулевой посещаемости, датасет был модифицирован
-6. Значимых критериев для дальнейшего построения модели 14, это: age, absences, address, schoolsup, m_edu, f_edu, m_job, f_job, studytime, failures, goout, paid, higher, romantic.
+6. Значимых критериев для дальнейшего построения модели 14, это: age, absences, address, schoolsup, m_edu, f_edu, m_job, f_job, studytime, failures, goout, paid, higher.
 
-Результат работы включает полностью подготовленный числовой датасет
+Результат работы включает полностью подготовленный числовой датасет ml_prepared
 
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
