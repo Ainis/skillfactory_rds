@@ -13,7 +13,6 @@
   
 Цель проекта:
   Подготовить данные для дальнейшей работы мат.модели
-
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
 
@@ -49,6 +48,7 @@
 27 health — текущее состояние здоровья (от 1 - очень плохо до 5 - очень хорошо)
 28 absences — количество пропущенных занятий
 29 score — баллы по госэкзамену по математике
+
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
 ###Этапы работы
@@ -60,6 +60,7 @@
 5. Устранение данных, не оказывающих влияние на score
 6. Финальная подготовка датасета для построения модели
 7. Выводы
+
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
 ###Выводы
@@ -76,5 +77,6 @@
 6. Значимых критериев для дальнейшего построения модели 14, это: age, absences, address, schoolsup, m_edu, f_edu, m_job, f_job, studytime, failures, goout, paid, higher, romantic.
 
 Результат работы включает полностью подготовленный числовой датасет
+
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
