@@ -2,7 +2,7 @@
 ## Оглавление  
 [1. Цели проекта](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Цели-проекта)  
 [2.  О данных](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#О-данных)  
-[3. Этапы работы](hhttps://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Этапы-работы)  
+[3. Этапы работы](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Этапы-работы)  
 [4. Выводы](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Выводы)  
 
 
