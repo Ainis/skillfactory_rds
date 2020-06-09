@@ -1,21 +1,22 @@
-## Итоговое задание по Проекту 2. Разведывательный анализ данных.
-## Оглавление  
+# Итоговое задание по Проекту 2. Разведывательный анализ данных.
+# Оглавление  
 [1. Цели проекта](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Цели-проекта)  
 [2.  О данных](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#О-данных)  
 [3. Этапы работы](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Этапы-работы)  
 [4. Выводы](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Выводы)  
 
 
-### Цели проекта
+##Цели проекта
 
 Глобальная цель:
   Отследить влияние условий жизни учащихся в возрасте от 15 до 22 лет на их успеваемость по математике, чтобы на ранней стадии выявлять студентов, находящихся в группе риска.
+  
 Цель проекта:
   Подготовить данные для дальнейшей работы мат.модели
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
 
-###О данных
+##О данных
 
 Датасет содержит следующую информацию
 1 school — аббревиатура школы, в которой учится ученик
