@@ -18,15 +18,15 @@
 ## О данных
 
 Датасет содержит следующую информацию:
-City: Город
-Cuisine Style: Кухня
-Ranking: Ранг ресторана относительно других ресторанов в этом городе
-Price Range: Цены в ресторане в 3 категориях
-Number of Reviews: Количество отзывов
-Reviews: 2 последних отзыва и даты этих отзывов
-URL_TA: страница ресторана на 'www.tripadvisor.com'
-ID_TA: ID ресторана в TripAdvisor
-Rating: Рейтинг ресторана
+* City: Город
+* Cuisine Style: Кухня
+* Ranking: Ранг ресторана относительно других ресторанов в этом городе
+* Price Range: Цены в ресторане в 3 категориях
+* Number of Reviews: Количество отзывов
+* Reviews: 2 последних отзыва и даты этих отзывов
+* URL_TA: страница ресторана на 'www.tripadvisor.com'
+* ID_TA: ID ресторана в TripAdvisor
+* Rating: Рейтинг ресторана
 
 :arrow_up:[к оглавлению](https://github.com/Ainis/skillfactory_rds/edit/master/module_2/readme.md#Оглавление)
 
